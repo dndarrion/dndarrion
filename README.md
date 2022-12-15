@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dndarrion
-- 😊 I’m a novice web dev
+- 👋 Hi, I’m Darrion!
+- 😊 I’m a novice web dev.
 - 🌱 I’m currently learning React.js
 - 📫 Reach me at darrionnongbet404@gmail.com
